@@ -1,3 +1,7 @@
+#https://github.com/louizaj/lab10-LJ-JP.git
+#Partner 1: Louiza Joya
+#Partner 2: Joseph Patriarca
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
